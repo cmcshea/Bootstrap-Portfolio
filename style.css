@@ -21,3 +21,7 @@ body {
     clear: both;
     display: table;
 }
+
+.navbar-nav {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
