@@ -25,6 +25,13 @@ body {
 .nav-link {
     font-family: 'Georgia', Times, Times New Roman, serif;
     color: #4aaaa5;
+    float: left;
+}
+
+.navbar-container {
+    float: left;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    color: #4aaaa5;
 }
 
 .title-container {
