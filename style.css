@@ -6,9 +6,7 @@ body {
     color: #777777;
     /* background: whitesmoke; */
     background-image: url("https://image.freepik.com/free-photo/wall-texture_1187-1675.jpg");
-    background-repeat: no-repeat;
-    background-size: 100%;
-    margin: 0 auto;
+  
 }
 
 * {
